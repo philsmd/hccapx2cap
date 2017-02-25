@@ -1,6 +1,6 @@
 # About
 
-The goal of this project is to allow users to convert hashcat WPA/WPA2 .hccapx files (back) to (p)cap files.
+The goal of this project is to allow users to convert hashcat's WPA/WPA2 .hccapx files (back) to (p)cap files.
 
 # Requirements
 
